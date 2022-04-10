@@ -1,7 +1,7 @@
-import React from "react";
+import PushUpPage from "./pages/push-up/PushUpPage";
 
 function App() {
-  return <div className="App">Hello</div>;
+  return <PushUpPage />;
 }
 
 export default App;
